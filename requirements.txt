@@ -1,0 +1,9 @@
+flask==2.3.3
+flask-cors==4.0.0
+yfinance==0.2.18
+numpy==1.24.3
+pandas==2.0.3
+requests==2.31.0
+python-dotenv==1.0.0
+numba==0.57.1
+psutil==5.9.5
